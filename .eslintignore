@@ -1,0 +1,7 @@
+build/*.js
+config/*.js
+dist/*.js
+src/main.js
+src/router.js
+src/components/Hello.vue
+src/components/Error404.vue
